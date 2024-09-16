@@ -13,3 +13,9 @@
 - s: Play Scissors
 - a: Auto Play
 - Backspace: Reset Score
+
+## Game Controls
++ Click on the Rock, Paper, or Scissors buttons to make your move.
++ View the result immediately and see your overall score.
++ Press the Auto Play button to let the game run automatically.
++ Reset the score at any time with the Reset Score button or by pressing Backspace.
